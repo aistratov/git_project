@@ -3,6 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout << "Testing" << endl;
-	cout << "Testing" << endl;
+	cout << "article2" << endl;
 }

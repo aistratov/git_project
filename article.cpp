@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout << "article" << endl;
+	cout << "article2" << endl;
 }
